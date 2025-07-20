@@ -147,4 +147,40 @@
 
 ---
 
-> 🔍 **Consejo final:** Mantenete actualizado con papers, conferencias (como NeurIPS, ICLR, ICML), y participá en comunidades (Discord, Hugging Face, Twitter). Documentar tu aprendizaje te hará destacar.
+## Mes 7 (Opcional): Extensión hacia AGI
+
+### Semana 25-26: Arquitecturas cognitivas y neuro-symbolic AI
+
+* **Temas:** SOAR, ACT-R, OpenCog, Leabra
+* **Lectura recomendada:**
+
+  * DeepMind Research Blog
+  * *How to Create a Mind* – Ray Kurzweil
+* **Práctica:** Diseñar agente híbrido simbólico + LLM
+
+### Semana 27: Meta-Learning y Continual Learning
+
+* **Temas:** MAML, Reptile, EWC, aprendizaje incremental
+* **Proyecto:** Entrenar agente con aprendizaje continuo sin olvidar tareas
+
+### Semana 28: Reinforcement Learning y RLHF
+
+* **Temas:** OpenAI Gym, PPO, RLHF pipeline
+* **Práctica:** Fine-tuning con feedback humano simulado
+
+### Semana 29: Autoconciencia, reflexión, cadenas de pensamiento
+
+* **Temas:** Self-ask, self-verification, auto-crítica de respuestas
+* **Práctica:** LLM que evalúa y corrige su propio output
+
+### Semana 30: Alineamiento y ética de AGI
+
+* **Temas:** Value alignment, interpretabilidad, riesgos, sesgos
+* **Lecturas clave:**
+
+  * *The Alignment Problem* – Brian Christian
+  * *Superintelligence* – Nick Bostrom
+
+---
+
+> 🔍 Consejo final: Mantente actualizado con papers, conferencias (NeurIPS, ICLR, ICML), y participa en comunidades (Discord, Hugging Face, Twitter). Documentar tu aprendizaje te hará destacar.
