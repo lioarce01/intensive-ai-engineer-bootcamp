@@ -1,186 +1,126 @@
-# Itinerario Intensivo de 6 Meses para Convertirse en AI Engineer Especializado en LLMs
+# Itinerario Intensivo de 6 Meses para Convertirse en AI Engineer (Enfoque Pareto 20/80)
 
-**Objetivo:** Prepararte como AI Engineer especializado en LLMs, agentes inteligentes y entrenamiento de modelos, listo para trabajar en empresas grandes.
+**Objetivo:** Convertirte en AI Engineer especializado en LLMs, agentes inteligentes y sistemas de entrenamiento y despliegue, enfocando en el 20% del conocimiento que habilita el 80% de impacto práctico.
 
-**Duración:** 6 meses (8 horas semanales los fines de semana).
+**Duración:** 6 meses — 8 horas semanales (fines de semana)
 
-**Formato:** Estudio teórico + ejercicios prácticos desde el inicio, con proyectos aplicados por módulo y cierre con preparación profesional.
+**Formato:** Estudio teórico enfocado + ejercicios prácticos desde el inicio, con proyectos de aplicación real y portfolio público.
 
 ---
 
-## Mes 1: Fundamentos matemáticos + NLP moderno
+## Mes 1: Fundamentos clave para entender Deep Learning y NLP
 
-### Semana 1-2: Repaso de álgebra, cálculo y probabilidad (solo lo esencial)
+### Semana 1-2: Álgebra, cálculo y probabilidad esenciales
 
-* **Temas:** Vectores, matrices, derivadas parciales, gradiente, probabilidad condicional, entropía
-* **Práctica:** Implementar desde cero softmax, cross-entropy, funciones de activación
+* **Temas:** Derivadas parciales, gradiente, vectores/matrices, entropía, probabilidad condicional
+* **Práctica:** Softmax, cross-entropy, backpropagation manual
 * **Recursos:**
 
   * [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
-  * [Stanford CS229 notes](https://cs229.stanford.edu/)
+  * [CS229 Notes](https://cs229.stanford.edu/notes2022fall/)
 
-### Semana 3-4: NLP clásico y base de embeddings
+### Semana 3-4: NLP práctico y embeddings
 
-* **Temas:** Tokenización, TF-IDF, word2vec, GloVe, FastText
-* **Práctica:** Explorar y visualizar embeddings (TSNE), entrenar word2vec en corpus propio
-* **Proyecto:** Explorador de similitud semántica entre textos cortos
+* **Temas:** Tokenización, word2vec, GloVe, TF-IDF, visualización de espacios semánticos
+* **Práctica:** Entrenar word2vec, similitud semántica
+* **Proyecto:** Buscador semántico básico
 * **Recursos:**
 
   * [The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
-  * [Hugging Face Datasets](https://huggingface.co/docs/datasets)
 
 ---
 
-## Mes 2: Transformers y LLMs
+## Mes 2: Transformers y Fundamentos de LLMs
 
-### Semana 5-6: Arquitectura Transformer en profundidad
+### Semana 5-6: Arquitectura Transformer explicada
 
-* **Temas:** Multi-head attention, Positional Encoding, Encoder vs Decoder
-* **Práctica:** Implementación simple de Transformer encoder desde cero
+* **Temas:** Multi-head attention, encoder/decoder, positional encoding
+* **Práctica:** Implementación mínima de Transformer encoder
 * **Recursos:**
 
   * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-  * [Jay Alammar Visual Guides](https://jalammar.github.io/)
+  * [Karpathy GPT](https://github.com/karpathy/ng-video-lecture)
 
-### Semana 7-8: LLMs y fine-tuning básico
+### Semana 7-8: Fine-tuning práctico con LoRA/QLoRA
 
-* **Temas:** Pretraining, fine-tuning, LoRA, QLoRA, PEFT
-* **Práctica:** Fine-tuning de LLaMA 2 o Mistral usando Hugging Face + PEFT
-* **Proyecto:** Clasificador de texto fine-tuneado para tareas de negocio
+* **Temas:** Pretraining, LoRA, QLoRA, PEFT con HF
+* **Práctica:** Fine-tune Mistral o LLaMA en una tarea de negocio
+* **Proyecto:** Clasificador de tickets o correos reales
 * **Recursos:**
 
   * [Hugging Face PEFT](https://github.com/huggingface/peft)
-  * [LoRA Explained](https://lightning.ai/pages/community/tutorial/lora-from-scratch/)
 
 ---
 
-## Mes 3: Agentes y RAG
+## Mes 3: RAG, agentes y herramientas inteligentes
 
-### Semana 9-10: Fundamentos de agentes y herramientas
+### Semana 9-10: Agentes + Herramientas externas
 
-* **Temas:** LangChain, OpenAI Tools, planificadores, memoria, herramientas custom
-* **Práctica:** Crear agentes multi-step con funciones custom (Python)
-* **Proyecto:** Asistente automatizado que usa una API externa para responder
-* **Recursos:**
-
-  * [LangChain Docs](https://docs.langchain.com/)
-  * [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling)
+* **Temas:** LangChain, Tools, memoria, planificadores
+* **Práctica:** Agente que consulta APIs + funciones custom
+* **Proyecto:** Agente que responde preguntas de documentación técnica
 
 ### Semana 11-12: Retrieval-Augmented Generation (RAG)
 
-* **Temas:** Chunking, embeddings, vectordb (FAISS, Chroma), pipelines RAG
-* **Práctica:** Indexar documentos y crear RAG sobre base local
-* **Proyecto:** RAG para documentación técnica de empresa ficticia
-* **Recursos:**
-
-  * [HuggingFace RAG Tutorial](https://huggingface.co/blog/rag)
-  * [LlamaIndex](https://docs.llamaindex.ai/)
+* **Temas:** Chunking, embeddings, FAISS/Chroma, RAG pipelines
+* **Práctica:** RAG local + indexado desde PDFs
+* **Proyecto:** Asistente sobre documentación empresarial
 
 ---
 
-## Mes 4: Deep Learning avanzado y entrenamiento de modelos
+## Mes 4: Entrenamiento desde cero y eficiencia
 
-### Semana 13-14: Entrenamiento desde cero
+### Semana 13-14: Códigos base de entrenamiento + optimización
 
-* **Temas:** Código desde cero para backprop, optimizadores (Adam, SGD), regularización
-* **Práctica:** Entrenar MLP sobre texto/tablas
-* **Proyecto:** Clasificador desde cero sin usar frameworks
-* **Recursos:**
-
-  * [CS231n (Stanford)](https://cs231n.github.io/)
+* **Temas:** Backprop, inicialización, regularización, SGD, Adam
+* **Práctica:** Entrenar desde cero sobre texto/tablas
+* **Proyecto:** Entrenar un clasificador con PyTorch puro
 
 ### Semana 15-16: Entrenamiento de LLMs + evaluación
 
-* **Temas:** Dataset curation, tokenización, data collators, evaluación (BLEU, ROUGE, perplexity)
-* **Práctica:** Entrenar pequeño modelo autoregresivo con Transformers
-* **Proyecto:** Mini GPT entrenado con corpus propio
+* **Temas:** Dataset curation, tokenización, métricas (perplexity, BLEU)
+* **Práctica:** Entrenar transformer pequeño con corpus reducido
+* **Proyecto:** Mini GPT entrenado sobre tus textos
 
 ---
 
-## Mes 5: Despliegue e infraestructura
+## Mes 5: Inferencia optimizada y MLOps mínimo viable
 
-### Semana 17-18: Infraestructura de inferencia
+### Semana 17-18: Infraestructura de inferencia eficiente
 
-* **Temas:** vLLM, TGI (Text Generation Inference), optimización en inferencia
-* **Práctica:** Servir un modelo usando vLLM con interfaz REST
-* **Recursos:**
+* **Temas:** vLLM, Text Generation Inference, quantization, distillation
+* **Práctica:** Servir modelo como API REST eficiente
+* **Proyecto:** Microservicio de generación de texto
 
-  * [vLLM GitHub](https://github.com/vllm-project/vllm)
-  * [TGI GitHub](https://github.com/huggingface/text-generation-inference)
+### Semana 19-20: MLOps aplicado (lo esencial)
 
-### Semana 19-20: MLOps aplicado a LLMs
-
-* **Temas:** Tracking (MLflow), versionado, Docker, deployment con FastAPI
-* **Proyecto:** Microservicio AI desplegado con FastAPI + Docker
-* **Recursos:**
-
-  * [Full Stack LLM Course (Free)](https://fullstackdeeplearning.com/llm-bootcamp/)
+* **Temas:** MLflow, Docker, FastAPI, versionado de modelos
+* **Práctica:** Microservicio reproducible y versionado
+* **Proyecto:** API deployada vía Docker + MLflow tracking
 
 ---
 
-## Mes 6: Portafolio y entrevistas
+## Mes 6: Portafolio sólido + preparación profesional
 
-### Semana 21: Armado de portafolio
+### Semana 21: Portafolio técnico y publicación
 
-* **Tareas:**
+* GitHub limpio con README detallados
+* Proyectos públicos en Hugging Face / Gradio
+* Blog técnico documentando uno de tus proyectos
 
-  * Repos GitHub ordenados y con README explicativos
-  * Publicar proyectos en Hugging Face o Gradio
-  * Crear blog técnico (Medium, Hashnode) explicando un proyecto
+### Semana 22-23: Entrevistas y preguntas clave
 
-### Semana 22-23: Preparación para entrevistas técnicas
+* Arquitecturas modernas (Transformers, LLMs, RAG)
+* Deployment, tradeoffs, escalabilidad
+* Evaluación de modelos, debugging en producción
+* Mock interviews
 
-* **Temas:**
+### Semana 24: Aplicación laboral y especialización
 
-  * Preguntas comunes de AI Engineer (arquitecturas, tradeoffs, escalabilidad)
-  * Problemas en ML (overfitting, drift, bias, evaluación)
-  * Repaso de conceptos clave (attention, embeddings, RLHF, etc)
-* **Práctica:** Mock interviews y repaso de notebooks
-
-### Semana 24: Aplicaciones y roadmap futuro
-
-* **Tareas:**
-
-  * Aplicar a posiciones con buen ajuste
-  * Identificar posibles contribuciones open source
-  * Definir área de especialización (e.g. agentes, RAG, MLOps)
+* Aplicar a roles técnicos con portafolio
+* Identificar contribuciones open source o problemas reales
+* Elegir área de especialización: agentes, infra, eficiencia, alignment
 
 ---
 
-## Mes 7 (Opcional): Extensión hacia AGI
-
-### Semana 25-26: Arquitecturas cognitivas y neuro-symbolic AI
-
-* **Temas:** SOAR, ACT-R, OpenCog, Leabra
-* **Lectura recomendada:**
-
-  * DeepMind Research Blog
-  * *How to Create a Mind* – Ray Kurzweil
-* **Práctica:** Diseñar agente híbrido simbólico + LLM
-
-### Semana 27: Meta-Learning y Continual Learning
-
-* **Temas:** MAML, Reptile, EWC, aprendizaje incremental
-* **Proyecto:** Entrenar agente con aprendizaje continuo sin olvidar tareas
-
-### Semana 28: Reinforcement Learning y RLHF
-
-* **Temas:** OpenAI Gym, PPO, RLHF pipeline
-* **Práctica:** Fine-tuning con feedback humano simulado
-
-### Semana 29: Autoconciencia, reflexión, cadenas de pensamiento
-
-* **Temas:** Self-ask, self-verification, auto-crítica de respuestas
-* **Práctica:** LLM que evalúa y corrige su propio output
-
-### Semana 30: Alineamiento y ética de AGI
-
-* **Temas:** Value alignment, interpretabilidad, riesgos, sesgos
-* **Lecturas clave:**
-
-  * *The Alignment Problem* – Brian Christian
-  * *Superintelligence* – Nick Bostrom
-
----
-
-> 🔍 Consejo final: Mantente actualizado con papers, conferencias (NeurIPS, ICLR, ICML), y participa en comunidades (Discord, Hugging Face, Twitter). Documentar tu aprendizaje te hará destacar.
+> ✅ **Recordatorio final:** Este itinerario está optimizado para dominar lo esencial que permite construir, escalar y desplegar soluciones reales con LLMs y agentes. Todo lo demás se vuelve mucho más accesible con este núcleo de conocimientos.
