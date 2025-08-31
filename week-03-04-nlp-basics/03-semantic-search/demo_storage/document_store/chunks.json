@@ -1,0 +1,1370 @@
+[
+  {
+    "chunk_id": "ai_overview_chunk_0",
+    "document_id": "ai_overview",
+    "content": "Artificial Intelligence: A Comprehensive Overview\n\nArtificial Intelligence (AI) represents one of the most transformative technologies of our time. At its core, AI refers to the development of computer systems that can perform tasks that typically require human intelligence These tasks include learning, reasoning, problem-solving, perception, and language understanding The field of AI has evolved significantly since its inception in the 1950s",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 446,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 446
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_1",
+    "document_id": "ai_overview",
+    "content": "Early pioneers like Alan Turing and John McCarthy laid the groundwork for what would become a revolutionary approach to computing Turing's famous test, proposed in 1950, challenged machines to exhibit intelligent behavior indistinguishable from that of humans Machine learning, a crucial subset of AI, enables systems to automatically learn and improve from experience without being explicitly programmed",
+    "chunk_index": 1,
+    "start_char": 447,
+    "end_char": 851,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 404
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_2",
+    "document_id": "ai_overview",
+    "content": "This approach has proven particularly powerful in handling large datasets and complex patterns that would be difficult for humans to process manually Deep learning, built upon artificial neural networks, has emerged as a particularly successful machine learning technique These networks, inspired by the structure of the human brain, consist of multiple layers that can learn hierarchical representations of data",
+    "chunk_index": 2,
+    "start_char": 852,
+    "end_char": 1264,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 412
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_3",
+    "document_id": "ai_overview",
+    "content": "This has led to breakthrough achievements in image recognition, natural language processing, and game playing Natural language processing (NLP) focuses on enabling computers to understand, interpret, and generate human language Recent advances in NLP have produced sophisticated language models capable of engaging in coherent conversations, translating between languages, and even generating creative content",
+    "chunk_index": 3,
+    "start_char": 1265,
+    "end_char": 1674,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 409
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_4",
+    "document_id": "ai_overview",
+    "content": "Computer vision, another major AI domain, gives machines the ability to interpret and understand visual information from the world Applications range from medical image analysis to autonomous vehicle navigation, demonstrating the broad applicability of AI technologies The impact of AI extends across numerous industries In healthcare, AI systems assist in medical diagnosis, drug discovery, and treatment optimization In finance, algorithmic trading and fraud detection systems leverage AI capabilities",
+    "chunk_index": 4,
+    "start_char": 1675,
+    "end_char": 2178,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 503
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_5",
+    "document_id": "ai_overview",
+    "content": "Transportation is being revolutionized through autonomous vehicles and traffic optimization systems However, the rise of AI also brings important considerations regarding ethics, privacy, and societal impact Questions about job displacement, algorithmic bias, and the concentration of AI power in large corporations require careful consideration as the technology continues to advance",
+    "chunk_index": 5,
+    "start_char": 2179,
+    "end_char": 2563,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 384
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "ai_overview_chunk_6",
+    "document_id": "ai_overview",
+    "content": "Looking toward the future, AI is expected to play an increasingly central role in solving complex global challenges, from climate change to healthcare accessibility The continued development of more efficient, interpretable, and aligned AI systems remains a critical area of research and development.",
+    "chunk_index": 6,
+    "start_char": 2564,
+    "end_char": 2864,
+    "metadata": {
+      "created_at": 1756654520.5808291,
+      "modified_at": 1756654520.5818324,
+      "file_extension": "txt",
+      "file_size": 2893,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 2,
+      "chunk_size_actual": 300
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_0",
+    "document_id": "deep_learning_explained",
+    "content": "Deep Learning: A Comprehensive Explanation\n\nDeep learning represents a powerful subset of machine learning that has revolutionized artificial intelligence applications across numerous domains. It is inspired by the structure and function of the human brain, specifically the way neurons are interconnected and process information",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 329,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 2,
+      "chunk_size_actual": 329
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_1",
+    "document_id": "deep_learning_explained",
+    "content": "At its foundation, deep learning uses artificial neural networks with multiple hidden layers - hence the term \"deep.\" These networks can automatically learn hierarchical representations of data, discovering intricate patterns that would be extremely difficult for humans to identify manually The basic building block of deep learning is the artificial neuron, also called a perceptron",
+    "chunk_index": 1,
+    "start_char": 330,
+    "end_char": 714,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 2,
+      "chunk_size_actual": 384
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_2",
+    "document_id": "deep_learning_explained",
+    "content": "Each neuron receives inputs, applies weights to these inputs, adds a bias term, and passes the result through an activation function to produce an output When thousands or millions of these neurons are connected in layers, they form powerful computational systems Neural network architectures vary significantly depending on the intended application Feedforward networks, where information flows in one direction from input to output, are suitable for many classification and regression tasks",
+    "chunk_index": 2,
+    "start_char": 715,
+    "end_char": 1207,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 492
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_3",
+    "document_id": "deep_learning_explained",
+    "content": "The depth and width of these networks can be adjusted based on the complexity of the problem Convolutional Neural Networks (CNNs) are specifically designed for processing grid-like data such as images They use convolution operations to detect local features like edges, corners, and patterns Multiple convolutional layers can detect increasingly complex features, from simple edges to complete objects Recurrent Neural Networks (RNNs) are designed to handle sequential data by maintaining memory of previous inputs",
+    "chunk_index": 3,
+    "start_char": 1208,
+    "end_char": 1722,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 514
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_4",
+    "document_id": "deep_learning_explained",
+    "content": "This makes them particularly suitable for tasks involving time series data, natural language processing, and any application where the order of inputs matters Long Short-Term Memory (LSTM) networks address the vanishing gradient problem that traditional RNNs face when dealing with long sequences LSTMs use gating mechanisms to selectively remember or forget information, making them more effective for tasks requiring long-term dependencies",
+    "chunk_index": 4,
+    "start_char": 1723,
+    "end_char": 2164,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 441
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_5",
+    "document_id": "deep_learning_explained",
+    "content": "The training process of deep neural networks involves forward propagation and backpropagation During forward propagation, input data flows through the network layers to produce an output The network's prediction is compared to the actual target using a loss function Backpropagation calculates how much each weight in the network contributed to the total error and updates these weights to minimize the loss",
+    "chunk_index": 5,
+    "start_char": 2165,
+    "end_char": 2572,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 407
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_6",
+    "document_id": "deep_learning_explained",
+    "content": "This process is repeated many times with different training examples until the network learns to make accurate predictions Gradient descent is the optimization algorithm most commonly used to update network weights It adjusts weights in the direction that most reduces the loss function Various variants of gradient descent, such as stochastic gradient descent and adaptive optimizers like Adam, have been developed to improve training efficiency",
+    "chunk_index": 6,
+    "start_char": 2573,
+    "end_char": 3019,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 446
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_7",
+    "document_id": "deep_learning_explained",
+    "content": "Regularization techniques are crucial for preventing overfitting in deep networks Dropout randomly deactivates some neurons during training, forcing the network to learn more robust representations Weight decay adds a penalty for large weights, encouraging simpler models Batch normalization normalizes the inputs to each layer, which can significantly speed up training and improve model performance It helps address issues with internal covariate shift and allows for the use of higher learning rates",
+    "chunk_index": 7,
+    "start_char": 3020,
+    "end_char": 3522,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 502
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_8",
+    "document_id": "deep_learning_explained",
+    "content": "Transfer learning has become an important technique in deep learning Instead of training a network from scratch, transfer learning uses a pre-trained network as a starting point and fine-tunes it for a specific task This approach can save significant computational resources and often achieves better performance Deep learning has achieved remarkable success in computer vision tasks Image classification systems can now identify objects in photos with accuracy that exceeds human performance in many cases",
+    "chunk_index": 8,
+    "start_char": 3523,
+    "end_char": 4029,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 506
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_9",
+    "document_id": "deep_learning_explained",
+    "content": "Object detection systems can locate and classify multiple objects within a single image In natural language processing, deep learning has enabled breakthrough achievements in machine translation, text generation, and language understanding Large language models like GPT and BERT have demonstrated unprecedented capabilities in understanding and generating human-like text Speech recognition and synthesis have been transformed by deep learning approaches",
+    "chunk_index": 9,
+    "start_char": 4030,
+    "end_char": 4485,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 455
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_10",
+    "document_id": "deep_learning_explained",
+    "content": "Modern systems can transcribe speech with high accuracy and generate natural-sounding synthetic speech that is often indistinguishable from human voices Game playing has seen remarkable advances through deep reinforcement learning Systems like AlphaGo and OpenAI Five have defeated world champions in complex games by learning strategies through self-play and reinforcement learning The computational requirements of deep learning are substantial",
+    "chunk_index": 10,
+    "start_char": 4486,
+    "end_char": 4932,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 446
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_11",
+    "document_id": "deep_learning_explained",
+    "content": "Training large models requires powerful hardware, typically GPUs or specialized chips like TPUs This has led to the development of distributed training techniques that can utilize multiple machines simultaneously Data requirements for deep learning are generally high Deep networks typically need large amounts of training data to learn effectively and avoid overfitting This has driven the creation of massive datasets and techniques for data augmentation to artificially increase the size of training sets",
+    "chunk_index": 11,
+    "start_char": 4933,
+    "end_char": 5440,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 507
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_12",
+    "document_id": "deep_learning_explained",
+    "content": "Interpretability remains a significant challenge in deep learning While these models can achieve excellent performance, understanding why they make specific decisions is often difficult This \"black box\" nature can be problematic in applications where explanations are required The future of deep learning continues to evolve rapidly Advances in architectures, training techniques, and computational hardware promise even more capable systems",
+    "chunk_index": 12,
+    "start_char": 5441,
+    "end_char": 5882,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 441
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "deep_learning_explained_chunk_13",
+    "document_id": "deep_learning_explained",
+    "content": "Areas of active research include few-shot learning, neural architecture search, and the development of more efficient training algorithms Deep learning is increasingly being integrated into everyday applications, from smartphone cameras that can enhance photos to recommendation systems that suggest content based on user preferences As the technology continues to mature, we can expect to see even more widespread adoption across various industries and applications.",
+    "chunk_index": 13,
+    "start_char": 5883,
+    "end_char": 6350,
+    "metadata": {
+      "created_at": 1756654590.4826877,
+      "modified_at": 1756654590.483686,
+      "file_extension": "txt",
+      "file_size": 6424,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 467
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_0",
+    "document_id": "machine_learning_basics",
+    "content": "Machine Learning Fundamentals\n\nMachine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention The learning process begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 506,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 506
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_1",
+    "document_id": "machine_learning_basics",
+    "content": "The primary aim is to allow computers to learn automatically without human intervention or assistance and adjust actions accordingly There are several types of machine learning algorithms, each suited to different types of problems:\n\nSupervised Learning involves learning with a teacher In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output",
+    "chunk_index": 1,
+    "start_char": 507,
+    "end_char": 978,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 471
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_2",
+    "document_id": "machine_learning_basics",
+    "content": "Supervised learning problems are categorized into regression and classification problems In a regression problem, we are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function In a classification problem, we are instead trying to predict results in a discrete output, meaning that we are trying to map input variables into discrete categories",
+    "chunk_index": 2,
+    "start_char": 979,
+    "end_char": 1398,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 419
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_3",
+    "document_id": "machine_learning_basics",
+    "content": "Unsupervised Learning allows us to approach problems with little or no idea what our results should look like We can derive structure from data where we don't necessarily know the effect of the variables We can derive this structure by clustering the data based on relationships among the variables in the data With unsupervised learning there is no feedback based on the prediction results",
+    "chunk_index": 3,
+    "start_char": 1399,
+    "end_char": 1789,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 390
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_4",
+    "document_id": "machine_learning_basics",
+    "content": "Clustering is a good example of unsupervised learning, where we group similar data points together without knowing the specific categories in advance Reinforcement Learning is about taking suitable action to maximize reward in a particular situation It is employed by various software and machines to find the best possible behavior or path it should take in a specific situation",
+    "chunk_index": 4,
+    "start_char": 1790,
+    "end_char": 2169,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 379
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_5",
+    "document_id": "machine_learning_basics",
+    "content": "The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewarded in return The machine learning process typically involves several key steps: data collection, data preprocessing, choosing the right algorithm, training the model, evaluating the model, and deploying the model Each step is crucial for building effective machine learning systems Data quality is paramount in machine learning",
+    "chunk_index": 5,
+    "start_char": 2170,
+    "end_char": 2622,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 452
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_6",
+    "document_id": "machine_learning_basics",
+    "content": "Poor quality data leads to poor models, regardless of the sophistication of the algorithms used Data preprocessing often includes cleaning the data, handling missing values, and transforming features to make them suitable for the chosen algorithm Feature engineering is the process of selecting and transforming variables when creating a predictive model using machine learning It involves using domain knowledge to extract features from raw data that make machine learning algorithms work more effectively",
+    "chunk_index": 6,
+    "start_char": 2623,
+    "end_char": 3129,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 506
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_7",
+    "document_id": "machine_learning_basics",
+    "content": "Model evaluation is critical to understand how well a model performs Common evaluation metrics include accuracy, precision, recall, F1-score for classification problems, and mean squared error, mean absolute error for regression problems Overfitting occurs when a model learns the training data too well, including noise and random fluctuations, making it perform poorly on new, unseen data Cross-validation and regularization techniques help prevent overfitting",
+    "chunk_index": 7,
+    "start_char": 3130,
+    "end_char": 3592,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 462
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "machine_learning_basics_chunk_8",
+    "document_id": "machine_learning_basics",
+    "content": "Machine learning has found applications in numerous domains, from recommendation systems and image recognition to autonomous vehicles and medical diagnosis As data becomes increasingly available and computing power continues to grow, machine learning will likely play an even more significant role in our daily lives.",
+    "chunk_index": 8,
+    "start_char": 3593,
+    "end_char": 3910,
+    "metadata": {
+      "created_at": 1756654541.6068375,
+      "modified_at": 1756654541.6068375,
+      "file_extension": "txt",
+      "file_size": 3950,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 2,
+      "chunk_size_actual": 317
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_0",
+    "document_id": "nlp_introduction",
+    "content": "Natural Language Processing: An Introduction\n\nNatural Language Processing (NLP) is a fascinating intersection of computer science, artificial intelligence, and linguistics. It focuses on enabling computers to understand, interpret, and generate human language in a valuable way The ultimate goal is to bridge the gap between human communication and computer understanding The field of NLP tackles one of the most complex aspects of human cognition - language",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 458,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 458
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_1",
+    "document_id": "nlp_introduction",
+    "content": "Unlike structured data, natural language is inherently ambiguous, context-dependent, and constantly evolving This presents unique challenges that require sophisticated approaches to solve Historical development of NLP can be traced back to the 1950s with early attempts at machine translation The Georgetown-IBM experiment in 1954 successfully translated more than sixty Russian sentences into English, marking an important milestone",
+    "chunk_index": 1,
+    "start_char": 459,
+    "end_char": 892,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 433
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_2",
+    "document_id": "nlp_introduction",
+    "content": "However, the complexity of language soon became apparent, leading to periods of both optimism and disappointment Modern NLP relies heavily on statistical and machine learning approaches These methods can handle the variability and ambiguity inherent in natural language more effectively than rule-based systems The availability of large text corpora and increased computational power has revolutionized the field Tokenization is often the first step in NLP processing",
+    "chunk_index": 2,
+    "start_char": 893,
+    "end_char": 1360,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 467
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_3",
+    "document_id": "nlp_introduction",
+    "content": "It involves breaking down text into smaller units such as words, phrases, or sentences This seemingly simple task can be surprisingly complex, especially for languages without clear word boundaries or when dealing with contractions and punctuation Part-of-speech tagging assigns grammatical categories to each word in a sentence This includes identifying nouns, verbs, adjectives, and other grammatical components Modern taggers use statistical models trained on large annotated corpora to achieve high accuracy",
+    "chunk_index": 3,
+    "start_char": 1361,
+    "end_char": 1872,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 511
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_4",
+    "document_id": "nlp_introduction",
+    "content": "Named Entity Recognition (NER) identifies and classifies named entities in text, such as person names, organizations, locations, and dates This is crucial for information extraction and understanding the key entities mentioned in documents Syntactic parsing analyzes the grammatical structure of sentences, determining how words relate to each other This can involve creating parse trees that represent the hierarchical structure of sentences according to formal grammar rules",
+    "chunk_index": 4,
+    "start_char": 1873,
+    "end_char": 2349,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 476
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_5",
+    "document_id": "nlp_introduction",
+    "content": "Semantic analysis goes beyond syntax to understand the meaning of text This includes word sense disambiguation, semantic role labeling, and understanding relationships between concepts Semantic analysis is essential for tasks that require deep understanding of content Sentiment analysis determines the emotional tone or opinion expressed in text This has become increasingly important for social media monitoring, customer feedback analysis, and market research",
+    "chunk_index": 5,
+    "start_char": 2350,
+    "end_char": 2812,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 462
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_6",
+    "document_id": "nlp_introduction",
+    "content": "Modern sentiment analysis systems can detect subtle emotions and handle complex linguistic phenomena like sarcasm Machine translation automatically translates text from one language to another Neural machine translation systems have achieved remarkable improvements in quality, making real-time translation services practical for everyday use Question answering systems can understand natural language questions and provide relevant answers from large knowledge bases or document collections",
+    "chunk_index": 6,
+    "start_char": 2813,
+    "end_char": 3304,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 491
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_7",
+    "document_id": "nlp_introduction",
+    "content": "These systems combine multiple NLP techniques to achieve human-like performance on specific domains Text summarization automatically creates concise summaries of longer documents while preserving the most important information This is particularly valuable in our information-rich world where efficient consumption of content is crucial Word embeddings represent words as dense vectors in high-dimensional space, capturing semantic relationships between words",
+    "chunk_index": 7,
+    "start_char": 3305,
+    "end_char": 3764,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 459
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_8",
+    "document_id": "nlp_introduction",
+    "content": "These representations have become fundamental building blocks for many NLP applications, enabling systems to understand semantic similarity and relationships Transformer architectures, particularly models like BERT and GPT, have revolutionized NLP by achieving state-of-the-art performance across numerous tasks These models use attention mechanisms to process sequences more effectively than previous approaches The applications of NLP are vast and growing",
+    "chunk_index": 8,
+    "start_char": 3765,
+    "end_char": 4222,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 457
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_9",
+    "document_id": "nlp_introduction",
+    "content": "Search engines use NLP to understand user queries and match them with relevant content Virtual assistants rely on NLP to interpret spoken commands and generate appropriate responses Content recommendation systems use NLP to understand user preferences and suggest relevant material Challenges in NLP remain significant Handling ambiguity, understanding context, dealing with linguistic variations, and processing multiple languages are ongoing areas of research",
+    "chunk_index": 9,
+    "start_char": 4223,
+    "end_char": 4684,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 461
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "nlp_introduction_chunk_10",
+    "document_id": "nlp_introduction",
+    "content": "Additionally, ensuring fairness and removing bias from NLP systems is an important ethical consideration The future of NLP looks promising with continued advances in deep learning, increased availability of multilingual data, and growing computational resources We can expect to see more sophisticated systems that can engage in natural conversations, understand complex documents, and assist humans in various language-related tasks.",
+    "chunk_index": 10,
+    "start_char": 4685,
+    "end_char": 5119,
+    "metadata": {
+      "created_at": 1756654565.4495533,
+      "modified_at": 1756654565.4495533,
+      "file_extension": "txt",
+      "file_size": 5181,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 434
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_0",
+    "document_id": "python_programming_guide",
+    "content": "Python Programming: A Comprehensive Guide\n\nPython is a high-level, interpreted programming language known for its simplicity, readability, and versatility. Created by Guido van Rossum and first released in 1991, Python has become one of the most popular programming languages in the world, particularly in fields like data science, artificial intelligence, web development, and automation",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 388,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 2,
+      "chunk_size_actual": 388
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_1",
+    "document_id": "python_programming_guide",
+    "content": "The philosophy behind Python is captured in \"The Zen of Python,\" which emphasizes principles like \"Beautiful is better than ugly,\" \"Explicit is better than implicit,\" and \"Simple is better than complex.\" These principles guide Python's design and make it an excellent language for both beginners and experienced programmers",
+    "chunk_index": 1,
+    "start_char": 389,
+    "end_char": 712,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 1,
+      "chunk_size_actual": 323
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_2",
+    "document_id": "python_programming_guide",
+    "content": "Python's syntax is designed to be clean and readable, often described as \"executable pseudocode.\" The use of indentation to define code blocks, rather than braces or keywords, enforces good formatting practices and makes code more visually appealing This design choice reflects Python's emphasis on code readability Variables in Python are dynamically typed, meaning you don't need to declare their type explicitly Python determines the type based on the value assigned",
+    "chunk_index": 2,
+    "start_char": 713,
+    "end_char": 1182,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 469
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_3",
+    "document_id": "python_programming_guide",
+    "content": "This flexibility makes Python code more concise and easier to write, though it requires careful attention to avoid type-related errors Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming This flexibility allows developers to choose the most appropriate approach for their specific problem, making Python suitable for a wide range of applications",
+    "chunk_index": 3,
+    "start_char": 1183,
+    "end_char": 1590,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 407
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_4",
+    "document_id": "python_programming_guide",
+    "content": "Object-oriented programming in Python allows for the creation of classes and objects, enabling code reuse and organization Python's approach to OOP is straightforward, with clear syntax for defining classes, methods, and inheritance relationships Multiple inheritance is supported, though it should be used judiciously Python's extensive standard library is often referred to as \"batteries included\" because it provides modules for almost every common programming task",
+    "chunk_index": 4,
+    "start_char": 1591,
+    "end_char": 2059,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 468
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_5",
+    "document_id": "python_programming_guide",
+    "content": "From file I/O and regular expressions to networking and data structures, the standard library reduces the need for external dependencies in many cases The Python Package Index (PyPI) hosts hundreds of thousands of third-party packages, making it easy to extend Python's capabilities Popular packages include NumPy for numerical computing, Pandas for data manipulation, Matplotlib for visualization, and Django for web development Data structures are fundamental to Python programming",
+    "chunk_index": 5,
+    "start_char": 2060,
+    "end_char": 2543,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 483
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_6",
+    "document_id": "python_programming_guide",
+    "content": "Lists provide ordered, mutable collections; tuples offer immutable sequences; dictionaries store key-value pairs; and sets contain unique elements Understanding when and how to use each data structure is crucial for writing efficient Python code List comprehensions provide a concise way to create lists based on existing sequences They offer a more Pythonic alternative to traditional loops and can make code more readable and efficient Dictionary and set comprehensions extend this concept to other data structures",
+    "chunk_index": 6,
+    "start_char": 2544,
+    "end_char": 3060,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 516
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_7",
+    "document_id": "python_programming_guide",
+    "content": "Functions in Python are first-class objects, meaning they can be assigned to variables, passed as arguments, and returned from other functions This enables powerful programming techniques like higher-order functions and functional programming patterns Error handling in Python uses try-except blocks to gracefully handle exceptions This approach allows programs to continue running even when errors occur, providing better user experiences and more robust applications",
+    "chunk_index": 7,
+    "start_char": 3061,
+    "end_char": 3529,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 468
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_8",
+    "document_id": "python_programming_guide",
+    "content": "Custom exceptions can be defined for specific error conditions Python's module system allows for organizing code into separate files and packages The import statement brings functionality from other modules into the current namespace, promoting code reuse and organization Understanding Python's import system is essential for working with larger codebases File handling in Python is straightforward, with built-in functions for reading and writing various file formats",
+    "chunk_index": 8,
+    "start_char": 3530,
+    "end_char": 3999,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 5,
+      "chunk_size_actual": 469
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_9",
+    "document_id": "python_programming_guide",
+    "content": "The context manager syntax (with statements) ensures proper resource management, automatically closing files even if errors occur during processing Regular expressions in Python, accessed through the 're' module, provide powerful text processing capabilities They allow for complex pattern matching and text manipulation tasks that would be difficult or impossible with simple string methods Python's role in data science has grown tremendously, largely due to libraries like NumPy, Pandas, and Scikit-learn",
+    "chunk_index": 9,
+    "start_char": 4000,
+    "end_char": 4507,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 507
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_10",
+    "document_id": "python_programming_guide",
+    "content": "These tools make Python an excellent choice for data analysis, statistical computing, and machine learning applications Web development with Python is popular thanks to frameworks like Django and Flask Django provides a full-featured web framework suitable for large applications, while Flask offers a lightweight, flexible approach for smaller projects or microservices Automation and scripting are natural fits for Python's capabilities",
+    "chunk_index": 10,
+    "start_char": 4508,
+    "end_char": 4946,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 438
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_11",
+    "document_id": "python_programming_guide",
+    "content": "Its extensive standard library and third-party packages make it easy to automate repetitive tasks, manage system administration, and integrate different software systems Testing is an integral part of Python development, with built-in support for unit testing through the unittest module Additional testing frameworks like pytest provide even more powerful testing capabilities, encouraging test-driven development practices Python's performance characteristics are often misunderstood",
+    "chunk_index": 11,
+    "start_char": 4947,
+    "end_char": 5432,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 485
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_12",
+    "document_id": "python_programming_guide",
+    "content": "While Python can be slower than compiled languages for certain tasks, its ease of development and extensive ecosystem often make it the better choice When performance is critical, tools like Cython or integration with C libraries can provide significant speed improvements Virtual environments are essential for managing Python dependencies across different projects",
+    "chunk_index": 12,
+    "start_char": 5433,
+    "end_char": 5799,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 3,
+      "chunk_size_actual": 366
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_13",
+    "document_id": "python_programming_guide",
+    "content": "Tools like venv and conda allow developers to create isolated environments with specific package versions, preventing conflicts and ensuring reproducible development environments Python's community is one of its greatest strengths The Python Software Foundation supports the language's development, while countless contributors create and maintain packages, documentation, and educational resources This vibrant community makes Python an excellent language for both learning and professional development",
+    "chunk_index": 13,
+    "start_char": 5800,
+    "end_char": 6303,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 503
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_14",
+    "document_id": "python_programming_guide",
+    "content": "Modern Python development benefits from tools like integrated development environments (IDEs), linters, and formatters Popular IDEs include PyCharm, Visual Studio Code, and Jupyter notebooks for data science work These tools enhance productivity and help maintain code quality The future of Python looks bright, with ongoing development focused on performance improvements, better error messages, and new language features",
+    "chunk_index": 14,
+    "start_char": 6304,
+    "end_char": 6726,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 4,
+      "chunk_size_actual": 422
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  },
+  {
+    "chunk_id": "python_programming_guide_chunk_15",
+    "document_id": "python_programming_guide",
+    "content": "Python's continued growth in emerging fields like artificial intelligence and data science ensures its relevance for years to come.",
+    "chunk_index": 15,
+    "start_char": 6727,
+    "end_char": 6858,
+    "metadata": {
+      "created_at": 1756654618.8425097,
+      "modified_at": 1756654618.8425097,
+      "file_extension": "txt",
+      "file_size": 6935,
+      "encoding": "utf-8",
+      "chunk_type": "sentence_boundary",
+      "num_sentences": 1,
+      "chunk_size_actual": 131
+    },
+    "has_embedding": true,
+    "embedding_models": [
+      "word2vec_avg",
+      "sentence_transformer",
+      "hybrid"
+    ]
+  }
+]

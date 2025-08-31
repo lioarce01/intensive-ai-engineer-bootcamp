@@ -1,0 +1,44 @@
+# Semantic Search Web Interface - Docker Compose
+# ===============================================
+# Easy deployment configuration for the semantic search engine
+
+version: '3.8'
+
+services:
+  semantic-search:
+    build: .
+    container_name: semantic-search-engine
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount demo storage to persist data
+      - ./demo_storage:/app/demo_storage
+      # Optional: Mount documents for processing
+      - ./sample_documents:/app/sample_documents:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - ENVIRONMENT=production
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+  # Optional: Add monitoring with Prometheus
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   container_name: semantic-search-prometheus
+  #   ports:
+  #     - "9090:9090"
+  #   volumes:
+  #     - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+  #   command:
+  #     - '--config.file=/etc/prometheus/prometheus.yml'
+  #     - '--storage.tsdb.path=/prometheus'
+  #   restart: unless-stopped
+
+networks:
+  default:
+    name: semantic-search-network

@@ -1,0 +1,23 @@
+# FastAPI Web Interface Dependencies
+# ==================================
+# Additional requirements for the semantic search web interface
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Request/Response Models
+pydantic>=2.5.0
+
+# File uploads and static files
+python-multipart>=0.0.6
+
+# CORS support
+python-multipart
+
+# Optional: Development and monitoring
+watchfiles>=0.21.0  # For auto-reload in development
+
+# Existing semantic search dependencies
+# (Include base requirements)
+-r requirements_semantic_search.txt

@@ -1,0 +1,859 @@
+{
+  "embeddings": [
+    {
+      "chunk_id": "ai_overview_chunk_0",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_0_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_1",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_1_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_2",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_2_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_3",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_3_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_4",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_4_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_5",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_5_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_6",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_6_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_0",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_0_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_1",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_1_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_2",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_2_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_3",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_3_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_4",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_4_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_5",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_5_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_6",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_6_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_7",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_7_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_8",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_8_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_9",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_9_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_10",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_10_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_11",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_11_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_12",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_12_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_13",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_13_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_0",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_0_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_1",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_1_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_2",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_2_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_3",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_3_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_4",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_4_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_5",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_5_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_6",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_6_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_7",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_7_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_8",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_8_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_0",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_0_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_1",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_1_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_2",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_2_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_3",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_3_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_4",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_4_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_5",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_5_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_6",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_6_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_7",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_7_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_8",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_8_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_9",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_9_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_10",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_10_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_0",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_0_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_1",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_1_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_2",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_2_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_3",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_3_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_4",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_4_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_5",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_5_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_6",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_6_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_7",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_7_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_8",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_8_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_9",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_9_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_10",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_10_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_11",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_11_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_12",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_12_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_13",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_13_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_14",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_14_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_15",
+      "model_name": "word2vec_avg",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_15_word2vec_avg.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_0",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_0_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_1",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_1_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_2",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_2_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_3",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_3_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_4",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_4_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_5",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_5_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_6",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_6_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_0",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_0_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_1",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_1_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_2",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_2_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_3",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_3_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_4",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_4_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_5",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_5_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_6",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_6_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_7",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_7_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_8",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_8_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_9",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_9_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_10",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_10_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_11",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_11_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_12",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_12_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_13",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_13_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_0",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_0_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_1",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_1_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_2",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_2_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_3",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_3_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_4",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_4_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_5",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_5_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_6",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_6_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_7",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_7_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_8",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_8_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_0",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_0_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_1",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_1_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_2",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_2_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_3",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_3_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_4",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_4_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_5",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_5_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_6",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_6_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_7",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_7_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_8",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_8_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_9",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_9_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_10",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_10_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_0",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_0_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_1",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_1_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_2",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_2_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_3",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_3_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_4",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_4_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_5",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_5_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_6",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_6_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_7",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_7_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_8",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_8_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_9",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_9_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_10",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_10_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_11",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_11_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_12",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_12_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_13",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_13_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_14",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_14_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_15",
+      "model_name": "sentence_transformer",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_15_sentence_transformer.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_0",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_0_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_1",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_1_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_2",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_2_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_3",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_3_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_4",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_4_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_5",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_5_hybrid.pkl"
+    },
+    {
+      "chunk_id": "ai_overview_chunk_6",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\ai_overview_chunk_6_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_0",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_0_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_1",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_1_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_2",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_2_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_3",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_3_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_4",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_4_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_5",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_5_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_6",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_6_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_7",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_7_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_8",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_8_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_9",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_9_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_10",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_10_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_11",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_11_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_12",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_12_hybrid.pkl"
+    },
+    {
+      "chunk_id": "deep_learning_explained_chunk_13",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\deep_learning_explained_chunk_13_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_0",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_0_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_1",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_1_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_2",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_2_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_3",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_3_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_4",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_4_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_5",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_5_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_6",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_6_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_7",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_7_hybrid.pkl"
+    },
+    {
+      "chunk_id": "machine_learning_basics_chunk_8",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\machine_learning_basics_chunk_8_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_0",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_0_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_1",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_1_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_2",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_2_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_3",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_3_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_4",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_4_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_5",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_5_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_6",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_6_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_7",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_7_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_8",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_8_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_9",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_9_hybrid.pkl"
+    },
+    {
+      "chunk_id": "nlp_introduction_chunk_10",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\nlp_introduction_chunk_10_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_0",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_0_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_1",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_1_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_2",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_2_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_3",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_3_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_4",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_4_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_5",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_5_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_6",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_6_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_7",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_7_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_8",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_8_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_9",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_9_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_10",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_10_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_11",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_11_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_12",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_12_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_13",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_13_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_14",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_14_hybrid.pkl"
+    },
+    {
+      "chunk_id": "python_programming_guide_chunk_15",
+      "model_name": "hybrid",
+      "file_path": "demo_storage\\document_store\\embeddings\\python_programming_guide_chunk_15_hybrid.pkl"
+    }
+  ]
+}

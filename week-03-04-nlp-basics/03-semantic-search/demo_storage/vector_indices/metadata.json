@@ -1,0 +1,29 @@
+{
+  "hybrid": {
+    "model_name": "hybrid",
+    "embedding_dim": 484,
+    "num_vectors": 57,
+    "index_type": "IndexFlatIP",
+    "created_at": "2025-08-31T13:02:31.418960",
+    "updated_at": "2025-08-31T13:02:31.419167",
+    "file_path": null
+  },
+  "word2vec_avg": {
+    "model_name": "word2vec_avg",
+    "embedding_dim": 100,
+    "num_vectors": 57,
+    "index_type": "IndexFlatIP",
+    "created_at": "2025-08-31T13:02:31.422727",
+    "updated_at": "2025-08-31T13:02:31.422801",
+    "file_path": null
+  },
+  "sentence_transformer": {
+    "model_name": "sentence_transformer",
+    "embedding_dim": 384,
+    "num_vectors": 57,
+    "index_type": "IndexFlatIP",
+    "created_at": "2025-08-31T13:02:31.426369",
+    "updated_at": "2025-08-31T13:02:31.426455",
+    "file_path": null
+  }
+}

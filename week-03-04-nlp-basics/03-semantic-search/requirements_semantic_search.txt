@@ -1,0 +1,29 @@
+# Semantic Search Engine Dependencies
+# Core ML and NLP
+torch>=1.11.0
+transformers>=4.20.0
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Vector search
+faiss-cpu>=1.7.4
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Data handling
+pandas>=1.4.0
+
+# Visualization (optional, for analysis)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Existing dependencies from word embeddings
+# (already available in the project)
+# - torch
+# - numpy
+# - matplotlib
+# - seaborn
+# - scikit-learn

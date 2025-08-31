@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Search Engine - AI Bootcamp</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1><i class="fas fa-search"></i> Semantic Search Engine</h1>
+            <p>Educational interface comparing classical and modern search approaches</p>
+            <div class="status-indicator">
+                <span id="service-status" class="status unknown">
+                    <i class="fas fa-circle"></i> Checking service...
+                </span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Search Interface -->
+            <section class="search-section">
+                <div class="search-container">
+                    <div class="search-input-group">
+                        <input type="text" id="search-query" placeholder="Enter your search query..." 
+                               class="search-input" autocomplete="off">
+                        <button id="search-btn" class="search-btn">
+                            <i class="fas fa-search"></i> Search
+                        </button>
+                    </div>
+                    
+                    <!-- Search Options -->
+                    <div class="search-options">
+                        <div class="search-modes">
+                            <h3>Search Method:</h3>
+                            <div class="radio-group">
+                                <label class="radio-label">
+                                    <input type="radio" name="search-type" value="semantic" checked>
+                                    <span class="radio-custom"></span>
+                                    <span class="method-info">
+                                        <strong>Semantic</strong>
+                                        <small>Vector similarity search using embeddings</small>
+                                    </span>
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="search-type" value="tfidf">
+                                    <span class="radio-custom"></span>
+                                    <span class="method-info">
+                                        <strong>TF-IDF</strong>
+                                        <small>Classical term frequency-based search</small>
+                                    </span>
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="search-type" value="hybrid">
+                                    <span class="radio-custom"></span>
+                                    <span class="method-info">
+                                        <strong>Hybrid</strong>
+                                        <small>Combined semantic and TF-IDF ranking</small>
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                        
+                        <div class="advanced-options">
+                            <div class="option-group">
+                                <label for="top-k">Results: <span id="top-k-value">10</span></label>
+                                <input type="range" id="top-k" min="1" max="20" value="10" class="slider">
+                            </div>
+                            
+                            <div class="hybrid-options" id="hybrid-options" style="display: none;">
+                                <div class="option-group">
+                                    <label for="semantic-weight">Semantic Weight: <span id="semantic-weight-value">0.6</span></label>
+                                    <input type="range" id="semantic-weight" min="0" max="1" step="0.1" value="0.6" class="slider">
+                                </div>
+                                <div class="option-group">
+                                    <label for="tfidf-weight">TF-IDF Weight: <span id="tfidf-weight-value">0.4</span></label>
+                                    <input type="range" id="tfidf-weight" min="0" max="1" step="0.1" value="0.4" class="slider">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Comparison Mode Toggle -->
+                    <div class="comparison-toggle">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="comparison-mode">
+                            <span class="toggle-slider"></span>
+                        </label>
+                        <span class="toggle-label">
+                            <strong>Comparison Mode</strong>
+                            <small>Compare all search methods side by side</small>
+                        </span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading Indicator -->
+            <div id="loading" class="loading hidden">
+                <i class="fas fa-spinner fa-spin"></i> Searching...
+            </div>
+
+            <!-- Results Section -->
+            <section id="results-section" class="results-section hidden">
+                <!-- Single Search Results -->
+                <div id="single-results" class="single-results">
+                    <div class="results-header">
+                        <h2 id="results-title">Search Results</h2>
+                        <div class="results-meta">
+                            <span id="results-count">0 results</span>
+                            <span id="search-time">0ms</span>
+                            <span id="search-method">Unknown</span>
+                        </div>
+                    </div>
+                    <div id="results-list" class="results-list"></div>
+                </div>
+
+                <!-- Comparison Results -->
+                <div id="comparison-results" class="comparison-results hidden">
+                    <div class="comparison-header">
+                        <h2>Search Method Comparison</h2>
+                        <div class="comparison-meta">
+                            <span id="comparison-query">Query: </span>
+                            <span id="comparison-total-time">Total time: 0ms</span>
+                        </div>
+                    </div>
+                    <div class="comparison-grid">
+                        <div class="method-results" id="semantic-results">
+                            <h3><i class="fas fa-brain"></i> Semantic Search</h3>
+                            <div class="method-meta"></div>
+                            <div class="method-list"></div>
+                        </div>
+                        <div class="method-results" id="tfidf-results">
+                            <h3><i class="fas fa-calculator"></i> TF-IDF Search</h3>
+                            <div class="method-meta"></div>
+                            <div class="method-list"></div>
+                        </div>
+                        <div class="method-results" id="hybrid-results">
+                            <h3><i class="fas fa-balance-scale"></i> Hybrid Search</h3>
+                            <div class="method-meta"></div>
+                            <div class="method-list"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Educational Information -->
+            <section class="info-section">
+                <h2>Understanding Search Methods</h2>
+                <div class="info-grid">
+                    <div class="info-card">
+                        <h3><i class="fas fa-brain"></i> Semantic Search</h3>
+                        <p>Uses neural embeddings to understand meaning and context. Great for conceptual queries and finding semantically similar content even when exact words don't match.</p>
+                        <ul>
+                            <li>✓ Understands context and meaning</li>
+                            <li>✓ Handles synonyms and related concepts</li>
+                            <li>✗ May miss exact term matches</li>
+                            <li>✗ Computationally intensive</li>
+                        </ul>
+                    </div>
+                    <div class="info-card">
+                        <h3><i class="fas fa-calculator"></i> TF-IDF Search</h3>
+                        <p>Classical approach using term frequency and document frequency. Excellent for exact term matching and keyword-based searches.</p>
+                        <ul>
+                            <li>✓ Fast and efficient</li>
+                            <li>✓ Great for exact term matches</li>
+                            <li>✓ Interpretable results</li>
+                            <li>✗ Doesn't understand context</li>
+                        </ul>
+                    </div>
+                    <div class="info-card">
+                        <h3><i class="fas fa-balance-scale"></i> Hybrid Search</h3>
+                        <p>Combines the best of both worlds by merging semantic understanding with precise term matching for optimal results.</p>
+                        <ul>
+                            <li>✓ Balances precision and recall</li>
+                            <li>✓ Adaptable weighting</li>
+                            <li>✓ Robust performance</li>
+                            <li>✗ More complex to tune</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Statistics Panel -->
+    <div class="stats-panel" id="stats-panel">
+        <div class="stats-header">
+            <h3><i class="fas fa-chart-bar"></i> Statistics</h3>
+            <button class="stats-toggle" id="stats-toggle">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+        <div class="stats-content" id="stats-content">
+            <div class="stat-item">
+                <span class="stat-label">Total Searches:</span>
+                <span class="stat-value" id="total-searches">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Avg. Time:</span>
+                <span class="stat-value" id="avg-time">0ms</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Documents:</span>
+                <span class="stat-value" id="doc-count">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Service Status:</span>
+                <span class="stat-value" id="service-health">Unknown</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>AI Engineering Bootcamp - Week 3-4: Semantic Search Engine</p>
+            <p>Educational interface showcasing classical vs. modern search approaches</p>
+        </div>
+    </footer>
+
+    <!-- Error Modal -->
+    <div id="error-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-exclamation-triangle"></i> Error</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="error-message">An error occurred</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
