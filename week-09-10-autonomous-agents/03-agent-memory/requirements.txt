@@ -1,0 +1,29 @@
+# Agent Memory Requirements
+
+# Core dependencies
+python-dateutil>=2.8.2
+
+# For production memory systems
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Vector stores (for semantic memory)
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# LLM APIs
+openai>=1.0.0
+anthropic>=0.8.0
+
+# Data structures
+pydantic>=2.0.0
+
+# Persistence
+sqlalchemy>=2.0.0  # For SQL-based memory
+redis>=5.0.0       # For Redis-based memory (optional)
+
+# JSON handling
+orjson>=3.9.0

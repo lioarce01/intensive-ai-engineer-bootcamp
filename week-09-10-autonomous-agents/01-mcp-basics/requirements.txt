@@ -1,0 +1,19 @@
+# MCP Basics Requirements
+
+# Note: As of Nov 2024, MCP Python SDK may be installed via:
+# pip install mcp
+
+# For this tutorial we use simplified examples
+# In production, use official MCP SDK
+
+# Async support
+asyncio>=3.4.3
+
+# Type hints
+typing-extensions>=4.5.0
+
+# JSON handling
+pydantic>=2.0.0
+
+# Date/time utilities
+python-dateutil>=2.8.2
