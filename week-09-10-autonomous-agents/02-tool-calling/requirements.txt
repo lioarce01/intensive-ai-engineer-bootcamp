@@ -1,0 +1,23 @@
+# Tool Calling Requirements
+
+# LLM APIs (choose based on your preference)
+openai>=1.0.0
+anthropic>=0.8.0
+
+# For production agents
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+
+# JSON schema validation
+jsonschema>=4.17.0
+
+# Type checking
+pydantic>=2.0.0
+
+# HTTP requests (for API tools)
+requests>=2.31.0
+httpx>=0.25.0
+
+# Async support
+aiohttp>=3.9.0
